@@ -1,6 +1,9 @@
 Where-s-Happening
 =================
 
+status: pipedream
+about: temp project creaed during a google hackathon
+
 android hack
 
 search twitter for topic   Karl
